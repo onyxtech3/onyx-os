@@ -9,8 +9,8 @@
 
 ## Relase date:
 
-* Onyx OS 1 (Based on the new Ubuntu 26.04) is comming in Summer 2026.
-* Onyx OS 2 (Based on Ubuntu 26.10) is comming in Winter 2026.
+* Onyx OS 1 (Based on the new Ubuntu 26.04) is coming in Summer 2026.
+* Onyx OS 2 (Based on Ubuntu 26.10) is coming in Winter 2026.
 More Versions soon!
 
-## More detalis comming!
+## More detalis coming!
