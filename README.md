@@ -13,4 +13,6 @@
 * Onyx OS 2 (Based on Ubuntu 26.10) is coming in Winter 2026.
 More Versions soon!
 
+<p>(update, I started development for it)</p>
+
 ## More detalis coming!
